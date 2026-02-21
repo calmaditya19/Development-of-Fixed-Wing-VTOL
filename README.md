@@ -11,7 +11,7 @@ To design and develop a **hybrid VTOL airframe** capable of high-stability trans
 ### 📈 Current Project Status
 - [x] Initial aerodynamic wing profiling (Xflr5)
 - [x] 3D Structural modeling of key components (Fusion 360)
-- [/] PID tuning and transition logic configuration (Mission Planner)
+- [ ] PID tuning and transition logic configuration (Mission Planner)
 - [ ] Physical fabrication and flight testing (Planned)
 
 ### 🚀 Goal
