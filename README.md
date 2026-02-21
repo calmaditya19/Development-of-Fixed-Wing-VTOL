@@ -1,13 +1,18 @@
-# Hybrid VTOL UAV Development
+# Hybrid VTOL UAV Development (In-Progress 🚀)
 
-### 🎯 Aim
-To design and implement a **hybrid VTOL airframe** capable of high-stability transitions between vertical hover and horizontal forward flight modes.
+### 🎯 Project Aim
+To design and develop a **hybrid VTOL airframe** capable of high-stability transitions between vertical hover and horizontal forward flight modes.
 
-### 🛠️ Key Technical Phases
-*   **Aerodynamic Analysis:** Conducted extensive wing profile optimization and stability prediction using **Xflr5** to ensure efficient fixed-wing performance.
-*   **Structural Modeling:** Designed all key airframe components in **Fusion 360**, ensuring high-precision fit for fabrication.
-*   **Flight Control & Stability:** Configured and tuned **PID control loops** within **Mission Planner** to facilitate reliable, smooth mode-switching.
+### 🛠️ Current Development Phases
+*   **Aerodynamic Analysis:** Optimizing wing profiles and predicting performance using **Xflr5** to ensure efficient fixed-wing stability.
+*   **Structural Modeling:** Designing high-precision airframe components in **Fusion 360** for upcoming fabrication.
+*   **Flight Control System:** Configuring **PID control loops** within **Mission Planner** to facilitate reliable, smooth mode-switching.
 
-### 🚀 Results
-*   Achieved a fully functional transition logic with validated aerodynamic stability.
-*   Minimized oscillation during the critical hover-to-forward flight phase.
+### 📈 Current Project Status
+- [x] Initial aerodynamic wing profiling (Xflr5)
+- [x] 3D Structural modeling of key components (Fusion 360)
+- [/] PID tuning and transition logic configuration (Mission Planner)
+- [ ] Physical fabrication and flight testing (Planned)
+
+### 🚀 Goal
+To achieve a fully functional, flight-ready VTOL prototype with validated aerodynamic performance and seamless mode transitions.
